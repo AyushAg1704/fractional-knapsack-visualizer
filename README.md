@@ -9,9 +9,6 @@ An interactive web-based visualization of the Fractional Knapsack Algorithm usin
 - Adjustable knapsack capacity
 - Step-by-step visualization
 
-## Live Demo
-Visit: [Your URL will appear here after deployment]
-
 ## How to Use
 1. Enter knapsack capacity
 2. Edit items (weight and value)
